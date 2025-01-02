@@ -9,4 +9,4 @@ Built using *Spring Boot* and *MySQL*, this project enables easy product managem
 **Spring Boot** - Framework for building RESTful APIs.
 **Spring Data JPA** - For data persistence with MySQL.
 **MySQL** - Database to store product data.
-**Postman** (or any REST client) - For testing the API endpoints.
+**Postman**- For testing the API endpoints.
